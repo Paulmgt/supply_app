@@ -1,0 +1,898 @@
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé...
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 08:53:21.557172
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 08:55:21.006357
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 08:57:07.482919
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:08:37.496387
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:20:26.369733
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:22:04.834890
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:23:32.873041
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:25:18.423965
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:26:57.284733
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:29:43.788138
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:30:59.682529
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:33:17.632109
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:33:43.331370
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:36:22.636137
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:38:04.995439
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:39:34.877438
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:42:14.091129
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:42:39.910803
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:43:32.211052
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:43:59.397160
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:45:01.431201
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:49:26.013354
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:50:54.095484
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:51:24.807610
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 09:54:42.933571
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 10:14:00.174081
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 10:14:34.375420
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:11:14.009246
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:13:16.791215
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:13:43.618598
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:16:26.628575
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:21:37.150567
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:23:26.332488
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:38:15.839132
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:38:31.391441
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-11 11:39:53.574627
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 12:38:18.108196
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 12:50:22.809842
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 12:52:35.001752
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 12:54:17.847275
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 12:56:33.454282
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:00:06.983444
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:06:42.617089
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:18:36.039306
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:20:16.117856
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:23:01.492871
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:27:22.177687
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:27:34.291917
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:30:03.029933
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:31:26.778313
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:32:39.749994
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:36:18.302242
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:38:33.731338
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:45:30.447357
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:53:32.515578
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 13:56:34.477439
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-14 14:23:57.280165
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-15 16:35:59.264598
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-16 15:00:05.837991
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-16 15:04:01.985859
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-16 15:09:11.541741
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-16 15:17:44.959187
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-16 15:18:50.995260
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-16 18:29:52.972416
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-17 15:45:11.108330
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-17 16:10:46.747176
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-17 16:15:33.724149
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-17 19:08:34.464931
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-17 19:54:33.806370
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 11:49:26.738769
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 11:55:16.910014
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 11:55:30.630400
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 11:58:52.077653
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 14:21:26.415292
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 14:31:25.139344
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 14:52:01.845155
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 14:52:41.688287
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 15:11:19.884640
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 16:33:18.138925
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 16:51:08.924764
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-18 18:25:33.284810
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 12:11:43.994368
+Résultats du profiler:          14023149 function calls (13710925 primitive calls) in 337.093 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3517 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      2/1    0.064    0.032  335.939  335.939 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:124(train_model)
+        1    0.000    0.000  297.413  297.413 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:197(save_correlation_matrix)
+        1  293.542  293.542  293.542  293.542 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/frame.py:10975(corr)
+      961    0.019    0.000   63.926    0.067 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+     2422    0.110    0.000   63.634    0.026 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+     83/2    0.001    0.000   38.252   19.126 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+    248/2    0.014    0.000   38.189   19.094 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.000    0.000   38.188   38.188 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      2/1    0.000    0.000   37.776   37.776 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      2/1    0.000    0.000   37.766   37.766 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+     3075   30.056    0.010   30.056    0.010 {built-in method time.sleep}
+     2422    0.077    0.000   26.161    0.011 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+ 1000/525    0.010    0.000    8.329    0.016 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:182(send_bytes)
+ 1000/525    0.006    0.000    7.516    0.014 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:406(_send_bytes)
+1500/1025    0.021    0.000    7.496    0.007 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:381(_send)
+       82    0.000    0.000    3.366    0.041 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/concurrent/futures/_base.py:199(as_completed)
+    52/51    0.000    0.000    3.362    0.066 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/threading.py:637(wait)
+     2422    3.018    0.001    3.018    0.001 {method 'poll' of 'select.poll' objects}
+3166/2921    0.006    0.000    2.859    0.001 {method 'acquire' of '_thread.lock' objects}
+      516    0.015    0.000    2.676    0.005 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:720(process_result_item)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 13:35:39.423987
+Résultats du profiler:          4121102 function calls (4041999 primitive calls) in 1.490 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2966 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.003    0.003    1.490    1.490 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:90(train_model)
+      6/5    0.000    0.000    0.580    0.116 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        2    0.221    0.110    0.579    0.290 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+        1    0.000    0.000    0.495    0.495 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.001    0.001    0.490    0.490 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        1    0.000    0.000    0.247    0.247 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:168(save_correlation_matrix)
+      6/4    0.000    0.000    0.247    0.062 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_set_output.py:311(wrapped)
+    83128    0.040    0.000    0.239    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:72(_analyze)
+        2    0.000    0.000    0.193    0.096 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:985(transform)
+        2    0.001    0.001    0.192    0.096 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/preprocessing/_encoders.py:186(_transform)
+        1    0.016    0.016    0.187    0.187 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:21(prepare_data)
+   302288    0.034    0.000    0.180    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_missing.py:6(is_scalar_nan)
+        2    0.000    0.000    0.163    0.081 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1043(fit_transform)
+729315/729267    0.066    0.000    0.157    0.000 {built-in method builtins.isinstance}
+    83128    0.156    0.000    0.156    0.000 {method 'findall' of 're.Pattern' objects}
+        5    0.016    0.003    0.139    0.028 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_encode.py:108(_extract_missing)
+        1    0.000    0.000    0.121    0.121 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2097(transform)
+        1    0.000    0.000    0.120    0.120 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1394(transform)
+       10    0.007    0.001    0.115    0.011 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_encode.py:236(_check_unknown)
+        2    0.001    0.000    0.113    0.056 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/numpy_pickle.py:424(dump)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 13:43:22.357574
+Résultats du profiler:          4568337 function calls (4457594 primitive calls) in 71.881 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3132 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.005    0.005   71.881   71.881 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:90(train_model)
+        4    0.000    0.000   68.236   17.059 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+        4    0.000    0.000   68.236   17.059 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+      408    0.001    0.000   68.236    0.167 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+      400    0.003    0.000   68.228    0.171 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+        6    0.001    0.000   66.064   11.011 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000   65.500   65.500 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+      100    0.031    0.000   65.442    0.654 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      100   65.134    0.651   65.352    0.654 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+        3    0.000    0.000    2.795    0.932 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:922(predict_proba)
+      300    0.004    0.000    2.776    0.009 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:724(_accumulate_prediction)
+      300    2.768    0.009    2.773    0.009 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:1017(predict_proba)
+        1    0.000    0.000    2.036    2.036 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        1    0.000    0.000    2.035    2.035 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    2.010    2.010 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    1.950    1.950 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.009    0.005    1.950    0.975 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+        2    0.000    0.000    1.848    0.924 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:883(predict)
+    26/12    0.000    0.000    1.178    0.098 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    1.147    1.147 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 14:07:35.330951
+Résultats du profiler:          4520120 function calls (4409402 primitive calls) in 77.630 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3126 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   77.630   77.630 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:90(train_model)
+        4    0.000    0.000   73.071   18.268 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+        4    0.000    0.000   73.071   18.268 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+      408    0.001    0.000   73.071    0.179 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+      400    0.002    0.000   73.066    0.183 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+        6    0.001    0.000   71.730   11.955 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000   71.018   71.018 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+      100    0.036    0.000   70.948    0.709 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      100   70.623    0.706   70.847    0.708 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+        1    0.000    0.000    2.735    2.735 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        1    0.001    0.001    2.735    2.735 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    2.696    2.696 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    2.588    2.588 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.012    0.006    2.588    1.294 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+        3    0.000    0.000    2.124    0.708 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:922(predict_proba)
+      300    0.002    0.000    2.111    0.007 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:724(_accumulate_prediction)
+      300    2.106    0.007    2.109    0.007 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:1017(predict_proba)
+    26/12    0.000    0.000    1.840    0.153 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    1.810    1.810 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+        1    0.000    0.000    1.810    1.810 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 14:22:05.309447
+Résultats du profiler:          4909038 function calls (4819705 primitive calls) in 428.399 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3734 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      198    0.004    0.000  746.412    3.770 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+      496    0.032    0.000  729.472    1.471 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+      2/1    0.004    0.002  424.294  424.294 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:93(train_model)
+      7/6    0.000    0.000  421.388   70.231 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.000    0.000  420.682  420.682 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      2/1    0.000    0.000  399.925  399.925 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      2/1    0.000    0.000  399.925  399.925 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+      2/1    0.001    0.001  399.888  399.888 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+    31340  397.177    0.013  397.177    0.013 {built-in method time.sleep}
+      496    0.532    0.001  376.152    0.758 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+  125/105    0.001    0.000   23.685    0.226 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:707(inner_f)
+        2    0.000    0.000   23.678   11.839 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/sklearn.py:1450(fit)
+        2    0.002    0.001   23.288   11.644 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/training.py:51(train)
+      600   23.249    0.039   23.262    0.039 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:2079(update)
+      123    0.008    0.000   21.915    0.178 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:720(process_result_item)
+  200/124    0.003    0.000   18.215    0.147 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:182(send_bytes)
+  200/124    0.002    0.000   18.088    0.146 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:406(_send_bytes)
+  300/224    0.025    0.000   18.083    0.081 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:381(_send)
+       23    0.001    0.000    4.726    0.205 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/process.py:142(join)
+      331    0.014    0.000    4.725    0.014 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/backend/popen_loky_posix.py:54(poll)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 14:34:08.984455
+Résultats du profiler:          4910735 function calls (4821590 primitive calls) in 446.320 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3732 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      197    0.004    0.000  784.897    3.984 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+      494    0.023    0.000  607.015    1.229 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+      2/1    0.004    0.002  442.271  442.271 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:93(train_model)
+      7/6    0.000    0.000  439.248   73.208 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.000    0.000  438.546  438.546 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      2/1    0.000    0.000  418.468  418.468 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      2/1    0.000    0.000  418.448  418.448 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+      2/1    0.001    0.000  418.441  418.441 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+    33226  415.939    0.013  415.939    0.013 {built-in method time.sleep}
+      494    0.493    0.001  397.242    0.804 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+      120    0.015    0.000  182.363    1.520 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:720(process_result_item)
+  125/105    0.001    0.000   23.120    0.220 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:707(inner_f)
+        2    0.000    0.000   23.115   11.557 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/sklearn.py:1450(fit)
+        2    0.002    0.001   22.735   11.367 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/training.py:51(train)
+      600   22.699    0.038   22.711    0.038 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:2079(update)
+  200/124    0.002    0.000   16.448    0.133 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:182(send_bytes)
+  200/124    0.002    0.000   16.371    0.132 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:406(_send_bytes)
+  300/224    0.020    0.000   16.366    0.073 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:381(_send)
+       20    0.000    0.000    4.040    0.202 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/process.py:142(join)
+      295    0.006    0.000    4.040    0.014 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/backend/popen_loky_posix.py:54(poll)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 14:46:48.198159
+Résultats du profiler:          5013380 function calls (4924219 primitive calls) in 451.719 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3718 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      187    0.005    0.000  800.195    4.279 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+      474    0.008    0.000  485.902    1.025 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+      2/1    0.004    0.002  447.653  447.653 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:93(train_model)
+      7/6    0.000    0.000  444.405   74.067 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.000    0.000  443.702  443.702 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      2/1    0.000    0.000  423.152  423.152 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      2/1    0.000    0.000  423.152  423.152 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+      2/1    0.001    0.001  423.149  423.149 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+    34193  420.632    0.012  420.640    0.012 {built-in method time.sleep}
+      474    0.550    0.001  411.660    0.868 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+      111    0.021    0.000  316.726    2.853 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:720(process_result_item)
+  125/105    0.001    0.000   23.781    0.226 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:707(inner_f)
+        2    0.000    0.000   23.776   11.888 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/sklearn.py:1450(fit)
+        2    0.002    0.001   23.381   11.691 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/training.py:51(train)
+      600   23.344    0.039   23.357    0.039 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:2079(update)
+  200/125    0.002    0.000    8.456    0.068 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:182(send_bytes)
+  200/125    0.001    0.000    8.364    0.067 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:406(_send_bytes)
+  300/225    0.011    0.000    8.360    0.037 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:381(_send)
+        1    0.000    0.000    2.731    2.731 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        1    0.000    0.000    2.731    2.731 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-21 17:13:04.275664
+Résultats du profiler:          6901241 function calls (6749128 primitive calls) in 62.805 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3530 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   62.804   62.804 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:97(train_model)
+      4/2    0.000    0.000   43.397   21.699 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+      4/2    0.001    0.000   43.397   21.699 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000   43.350   43.350 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/combine/_smote_enn.py:154(_fit_resample)
+        3    0.000    0.000   43.315   14.438 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+       18    0.139    0.008   43.313    2.406 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+        1    0.001    0.001   40.630   40.630 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/under_sampling/_prototype_selection/_edited_nearest_neighbours.py:156(_fit_resample)
+  363/132    0.002    0.000   30.189    0.229 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+       15    0.000    0.000   29.886    1.992 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+       15    0.000    0.000   29.886    1.992 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+       15    0.000    0.000   29.886    1.992 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:258(euclidean_distances)
+       15    2.179    0.145   29.878    1.992 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:375(_euclidean_distances)
+       15    0.000    0.000   27.677    1.845 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/extmath.py:161(safe_sparse_dot)
+       16    0.003    0.000   25.731    1.608 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_base.py:544(_matmul_dispatch)
+       16    0.000    0.000   25.731    1.608 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_compressed.py:512(_matmul_sparse)
+       15    0.000    0.000   25.730    1.715 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_base.py:665(__matmul__)
+     10/8    0.001    0.000   17.802    2.225 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+       16   17.622    1.101   17.622    1.101 {built-in method scipy.sparse._sparsetools.csr_matmat}
+      5/3    0.000    0.000   17.111    5.704 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+      5/3    0.000    0.000   17.111    5.704 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-22 13:56:42.249952
+Résultats du profiler:          7770515 function calls (7582012 primitive calls) in 68.556 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3522 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   68.555   68.555 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:98(train_model)
+      9/7    0.001    0.000   64.162    9.166 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      5/3    0.000    0.000   63.580   21.193 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+      5/3    0.000    0.000   63.580   21.193 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+  916/312    0.002    0.000   63.580    0.204 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+  906/306    0.004    0.000   63.576    0.208 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+        2    0.000    0.000   63.469   31.734 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/validation.py:62(inner_f)
+        2    0.000    0.000   63.469   31.734 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:355(fit)
+        2    0.001    0.000   63.467   31.733 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:82(fit)
+        6    0.000    0.000   63.374   10.562 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_base.py:20(_fit_single_estimator)
+     25/5    0.000    0.000   28.998    5.800 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:707(inner_f)
+        2    0.000    0.000   28.997   14.498 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/sklearn.py:1450(fit)
+        2    0.000    0.000   28.916   14.458 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+        2    0.003    0.001   28.860   14.430 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/training.py:51(train)
+     1000   28.798    0.029   28.820    0.029 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:2079(update)
+      600    0.070    0.000   28.722    0.048 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      600   26.144    0.044   26.610    0.044 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+        2    0.000    0.000    5.458    2.729 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/lightgbm/sklearn.py:1218(fit)
+        2    0.000    0.000    5.456    2.728 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/lightgbm/sklearn.py:823(fit)
+        2    0.005    0.002    5.427    2.713 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/lightgbm/engine.py:66(train)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-22 17:55:48.546123
+Résultats du profiler:          24662667 function calls (24176511 primitive calls) in 9314.572 seconds
+
+   Ordered by: cumulative time
+   List reduced from 4010 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      804    0.015    0.000 10658.289   13.257 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+     2034    0.043    0.000 10658.037    5.240 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+    14/10    0.002    0.000 9308.307  930.831 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.004    0.002 9307.645 9307.645 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:99(train_model)
+     10/7    0.002    0.000 9234.764 1319.252 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+      4/3    0.000    0.000 7224.882 2408.294 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      4/3    0.000    0.000 5839.772 1946.591 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      4/3    0.000    0.000 5839.755 1946.585 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+   469006 5826.041    0.012 5826.042    0.012 {built-in method time.sleep}
+2036/2034    6.042    0.003 5813.638    2.858 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+     10/7    0.001    0.000 3395.045  485.006 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+ 1134/572    0.004    0.000 3380.922    5.911 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+ 1122/564    0.008    0.000 3380.911    5.995 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+        3    0.000    0.000 3305.458 1101.819 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+      837    0.144    0.000 3285.546    3.925 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      837 3284.193    3.924 3285.026    3.925 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+        2    0.000    0.000 2081.169 1040.585 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/validation.py:62(inner_f)
+        2    0.000    0.000 2081.169 1040.585 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:355(fit)
+        2    0.000    0.000 2081.167 1040.583 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:82(fit)
+        6    0.000    0.000 2081.010  346.835 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_base.py:20(_fit_single_estimator)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-23 13:54:53.505543
+Résultats du profiler:          24531191 function calls (24045086 primitive calls) in 9028.873 seconds
+
+   Ordered by: cumulative time
+   List reduced from 4010 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      824    0.014    0.000 10251.559   12.441 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+     2074    0.046    0.000 10251.312    4.943 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+    14/10    0.002    0.000 9022.332  902.233 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.004    0.002 9021.429 9021.429 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:99(train_model)
+     10/7    0.002    0.000 8949.401 1278.486 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+      4/3    0.000    0.000 6984.051 2328.017 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      4/3    0.000    0.000 5606.324 1868.775 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      4/3    0.000    0.000 5606.309 1868.770 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+   435947 5593.816    0.013 5593.819    0.013 {built-in method time.sleep}
+2076/2074    4.862    0.002 5589.689    2.695 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+     10/7    0.001    0.000 3343.153  477.593 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+ 1134/572    0.004    0.000 3323.221    5.810 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+ 1122/564    0.006    0.000 3323.210    5.892 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+        3    0.000    0.000 3255.507 1085.169 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+      837    0.138    0.000 3229.951    3.859 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      837 3228.633    3.857 3229.445    3.858 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+        2    0.000    0.000 2035.814 1017.907 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/validation.py:62(inner_f)
+        2    0.000    0.000 2035.814 1017.907 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:355(fit)
+        2    0.001    0.000 2035.811 1017.906 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:82(fit)
+        6    0.000    0.000 2035.651  339.275 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_base.py:20(_fit_single_estimator)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-23 21:17:06.091937
+Résultats du profiler:          24521655 function calls (24035615 primitive calls) in 9157.503 seconds
+
+   Ordered by: cumulative time
+   List reduced from 4010 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      808    0.016    0.000 10535.789   13.039 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+     2042    0.054    0.000 10489.161    5.137 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+    14/10    0.002    0.000 9151.030  915.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.004    0.002 9150.195 9150.195 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:97(train_model)
+     10/7    0.003    0.000 9077.091 1296.727 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+      4/3    0.000    0.000 7102.963 2367.654 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      4/3    0.000    0.000 5725.367 1908.456 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      4/3    0.000    0.000 5725.367 1908.456 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+   435283 5712.233    0.013 5712.236    0.013 {built-in method time.sleep}
+2044/2042    5.431    0.003 5708.378    2.795 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+     10/7    0.001    0.000 3351.773  478.825 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+ 1134/572    0.004    0.000 3336.581    5.833 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+ 1122/564    0.008    0.000 3336.570    5.916 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+        3    0.000    0.000 3264.067 1088.022 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+      837    0.151    0.000 3238.811    3.870 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      837 3237.472    3.868 3238.292    3.869 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+        2    0.000    0.000 2045.650 1022.825 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/validation.py:62(inner_f)
+        2    0.000    0.000 2045.650 1022.825 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:355(fit)
+        2    0.000    0.000 2045.647 1022.824 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_voting.py:82(fit)
+        6    0.000    0.000 2045.492  340.915 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_base.py:20(_fit_single_estimator)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-24 19:54:27.344340
+Résultats du profiler:          19386611 function calls (19230807 primitive calls) in 7558.878 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2473 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      808    0.015    0.000 11214.649   13.880 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:644(wait_result_broken_or_wakeup)
+     2042    0.046    0.000 11214.333    5.492 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/connection.py:1122(wait)
+     12/9    0.001    0.000 7554.161  839.351 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+      2/1    0.004    0.002 7551.965 7551.965 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:168(train_model)
+      4/3    0.000    0.000 7551.960 2517.320 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:886(fit)
+      5/4    0.001    0.000 7475.839 1868.960 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+      4/3    0.000    0.000 6148.603 2049.534 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:1957(_run_search)
+      4/3    0.001    0.000 6148.589 2049.530 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/model_selection/_search.py:951(evaluate_candidates)
+   502639 6134.051    0.012 6134.064    0.012 {built-in method time.sleep}
+2044/2042    6.149    0.003 6117.714    2.996 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/selectors.py:402(select)
+        1    0.000    0.000 1327.390 1327.390 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+      5/4    0.000    0.000 1327.299  331.825 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+      281    0.001    0.000 1306.285    4.649 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+      279    0.002    0.000 1306.278    4.682 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+      279    0.061    0.000 1306.268    4.682 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      279 1305.806    4.680 1306.090    4.681 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+      479    0.013    0.000  119.108    0.249 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:720(process_result_item)
+       53    0.008    0.000  110.580    2.086 /Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/process.py:142(join)
+  164/154    0.001    0.000   59.609    0.387 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/core.py:707(inner_f)
+        1    0.000    0.000   59.604   59.604 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/xgboost/sklearn.py:1450(fit)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-25 11:51:04.149155
+Résultats du profiler:          11225017 function calls (11223866 primitive calls) in 27.478 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1446 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   27.477   27.477 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:160(train_model)
+        3    0.013    0.004   20.380    6.793 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+        2    0.001    0.000   20.378   10.189 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+     11/9    0.029    0.003   20.365    2.263 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       18   20.320    1.129   20.320    1.129 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    3.193    1.597 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        2    0.000    0.000    3.193    1.596 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    3.119    3.119 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    3.069    3.069 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.011    0.006    3.068    1.534 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+      7/6    0.000    0.000    2.335    0.389 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000    2.282    2.282 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.051    0.051    2.272    2.272 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+      8/7    0.000    0.000    2.251    0.322 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    2.242    2.242 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+        1    0.000    0.000    2.242    2.242 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+        1    0.000    0.000    2.242    2.242 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:258(euclidean_distances)
+        1    0.159    0.159    2.241    2.241 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:375(_euclidean_distances)
+        1    0.000    0.000    2.081    2.081 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/extmath.py:161(safe_sparse_dot)
+        2    0.768    0.384    1.990    0.995 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-25 11:54:21.115048
+Résultats du profiler:          11499962 function calls (11490429 primitive calls) in 23.708 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2747 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   23.707   23.707 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:160(train_model)
+        2    0.002    0.001   19.457    9.728 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+        2    0.013    0.007   19.455    9.728 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+     10/8    0.139    0.014   19.442    2.430 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       24   19.289    0.804   19.289    0.804 {method 'nonzero' of 'numpy.ndarray' objects}
+        4    0.000    0.000    2.327    0.582 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000    2.278    2.278 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.053    0.053    2.267    2.267 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        2    0.750    0.375    1.966    0.983 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+    80161    0.047    0.000    0.930    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:72(_analyze)
+        7    0.000    0.000    0.722    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/series.py:4789(apply)
+        7    0.000    0.000    0.722    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/apply.py:1409(apply)
+        7    0.000    0.000    0.722    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/apply.py:1482(apply_standard)
+        7    0.000    0.000    0.722    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/base.py:891(_map_values)
+        7    0.036    0.005    0.722    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/algorithms.py:1667(map_array)
+    80161    0.326    0.000    0.605    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:242(_word_ngrams)
+    80161    0.151    0.000    0.603    0.000 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:179(<lambda>)
+        1    0.215    0.215    0.448    0.448 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1189(_sort_features)
+        1    0.000    0.000    0.372    0.372 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2097(transform)
+        1    0.000    0.000    0.371    0.371 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1394(transform)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-25 11:57:19.208436
+Résultats du profiler:          11508534 function calls (11498940 primitive calls) in 26.384 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2868 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   26.384   26.384 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:160(train_model)
+        3    0.009    0.003   19.003    6.334 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+        2    0.001    0.000   19.000    9.500 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+     11/9    0.085    0.008   18.990    2.110 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       30   18.890    0.630   18.890    0.630 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    3.144    1.572 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        2    0.003    0.001    3.143    1.572 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    3.061    3.061 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    3.019    3.019 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.011    0.005    3.019    1.509 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+      7/6    0.000    0.000    2.417    0.403 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000    2.364    2.364 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.052    0.052    2.353    2.353 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+      8/7    0.000    0.000    2.210    0.316 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    2.201    2.201 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+        1    0.000    0.000    2.201    2.201 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+        1    0.000    0.000    2.201    2.201 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:258(euclidean_distances)
+        1    0.148    0.148    2.200    2.200 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:375(_euclidean_distances)
+        1    0.000    0.000    2.050    2.050 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/extmath.py:161(safe_sparse_dot)
+        2    0.783    0.392    2.008    1.004 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-25 11:59:03.214965
+Résultats du profiler:          11499965 function calls (11490432 primitive calls) in 23.296 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2749 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   23.296   23.296 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:160(train_model)
+        2    0.000    0.000   19.082    9.541 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+        2    0.005    0.002   19.081    9.540 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+     10/8    0.026    0.003   19.076    2.384 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       24   19.040    0.793   19.040    0.793 {method 'nonzero' of 'numpy.ndarray' objects}
+        4    0.000    0.000    2.296    0.574 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000    2.247    2.247 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.051    0.051    2.237    2.237 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        2    0.741    0.370    1.950    0.975 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+    80161    0.047    0.000    0.925    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:72(_analyze)
+        7    0.000    0.000    0.714    0.102 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/series.py:4789(apply)
+        7    0.000    0.000    0.714    0.102 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/apply.py:1409(apply)
+        7    0.000    0.000    0.714    0.102 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/apply.py:1482(apply_standard)
+        7    0.000    0.000    0.714    0.102 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/base.py:891(_map_values)
+        7    0.034    0.005    0.714    0.102 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/algorithms.py:1667(map_array)
+    80161    0.327    0.000    0.606    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:242(_word_ngrams)
+    80161    0.151    0.000    0.600    0.000 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:179(<lambda>)
+        1    0.202    0.202    0.432    0.432 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1189(_sort_features)
+        1    0.000    0.000    0.358    0.358 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2097(transform)
+        1    0.000    0.000    0.356    0.356 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1394(transform)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-09-25 12:00:46.141920
+Résultats du profiler:          11499965 function calls (11490432 primitive calls) in 23.214 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2749 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.007    0.007   23.214   23.214 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:160(train_model)
+        2    0.000    0.000   19.046    9.523 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+        2    0.005    0.003   19.045    9.523 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+     10/8    0.043    0.004   19.040    2.380 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       24   18.985    0.791   18.985    0.791 {method 'nonzero' of 'numpy.ndarray' objects}
+        4    0.000    0.000    2.293    0.573 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000    2.245    2.245 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.050    0.050    2.235    2.235 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        2    0.744    0.372    1.965    0.983 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+    80161    0.046    0.000    0.931    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:72(_analyze)
+        7    0.000    0.000    0.721    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/series.py:4789(apply)
+        7    0.000    0.000    0.721    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/apply.py:1409(apply)
+        7    0.000    0.000    0.721    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/apply.py:1482(apply_standard)
+        7    0.000    0.000    0.720    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/base.py:891(_map_values)
+        7    0.036    0.005    0.720    0.103 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/pandas/core/algorithms.py:1667(map_array)
+    80161    0.327    0.000    0.608    0.000 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:242(_word_ngrams)
+    80161    0.150    0.000    0.601    0.000 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:179(<lambda>)
+        1    0.199    0.199    0.432    0.432 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1189(_sort_features)
+        1    0.000    0.000    0.358    0.358 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2097(transform)
+        1    0.000    0.000    0.356    0.356 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1394(transform)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-10-01 15:38:17.052704
+Résultats du profiler:          12759804 function calls (12626954 primitive calls) in 25.626 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1582 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   25.626   25.626 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:161(train_model)
+        3    0.005    0.002   18.301    6.100 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+        2    0.001    0.000   18.300    9.150 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+    12/10    0.035    0.003   18.295    1.829 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       18   18.250    1.014   18.250    1.014 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    2.955    1.478 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        2    0.000    0.000    2.954    1.477 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    2.867    2.867 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    2.841    2.841 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.011    0.005    2.840    1.420 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+      7/6    0.000    0.000    2.285    0.381 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+  333/112    0.001    0.000    2.281    0.020 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    2.223    2.223 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.051    0.051    2.214    2.214 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        1    0.000    0.000    1.984    1.984 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+        1    0.000    0.000    1.984    1.984 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+        1    0.000    0.000    1.984    1.984 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:258(euclidean_distances)
+        1    0.147    0.147    1.983    1.983 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:375(_euclidean_distances)
+        2    0.726    0.363    1.944    0.972 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+        3    0.000    0.000    1.840    0.613 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/extmath.py:161(safe_sparse_dot)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-10-01 15:40:05.773132
+Résultats du profiler:          13042746 function calls (12901455 primitive calls) in 26.726 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2989 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   26.726   26.726 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:161(train_model)
+        3    0.008    0.003   18.888    6.296 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+        2    0.001    0.000   18.887    9.443 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+    12/10    0.040    0.003   18.878    1.888 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       30   18.828    0.628   18.828    0.628 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    3.047    1.523 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        2    0.000    0.000    3.046    1.523 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    2.962    2.962 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    2.937    2.937 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.011    0.005    2.936    1.468 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+      7/6    0.000    0.000    2.411    0.402 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+  333/112    0.001    0.000    2.367    0.021 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    2.355    2.355 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.053    0.053    2.345    2.345 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        1    0.000    0.000    2.069    2.069 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+        1    0.000    0.000    2.069    2.069 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+        1    0.000    0.000    2.069    2.069 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:258(euclidean_distances)
+        1    0.159    0.159    2.068    2.068 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:375(_euclidean_distances)
+        2    0.798    0.399    2.026    1.013 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+        3    0.000    0.000    1.912    0.637 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/extmath.py:161(safe_sparse_dot)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-10-01 15:43:16.881152
+Résultats du profiler:          13042746 function calls (12901455 primitive calls) in 26.869 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2989 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   26.869   26.869 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:161(train_model)
+        3    0.004    0.001   18.898    6.299 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+        2    0.001    0.000   18.896    9.448 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+    12/10    0.032    0.003   18.891    1.889 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       30   18.849    0.628   18.849    0.628 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    3.152    1.576 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        2    0.000    0.000    3.151    1.576 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    3.078    3.078 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    3.050    3.050 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.012    0.006    3.049    1.525 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+      7/6    0.000    0.000    2.469    0.411 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+  333/112    0.001    0.000    2.437    0.022 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    2.409    2.409 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.053    0.053    2.398    2.398 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        1    0.000    0.000    2.137    2.137 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+        1    0.000    0.000    2.137    2.137 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+        1    0.000    0.000    2.137    2.137 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:258(euclidean_distances)
+        1    0.161    0.161    2.136    2.136 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:375(_euclidean_distances)
+        2    0.833    0.417    2.069    1.034 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+        3    0.000    0.000    1.978    0.659 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/extmath.py:161(safe_sparse_dot)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-10-01 15:46:21.732049
+Résultats du profiler:          13006833 function calls (12866458 primitive calls) in 26.815 seconds
+
+   Ordered by: cumulative time
+   List reduced from 2685 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   26.815   26.815 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:161(train_model)
+        3    0.005    0.002   19.288    6.429 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+        2    0.001    0.000   19.287    9.644 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+    12/10    0.085    0.007   19.281    1.928 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       30   19.179    0.639   19.179    0.639 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    2.964    1.482 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        2    0.000    0.000    2.963    1.482 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    2.892    2.892 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    2.866    2.866 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.010    0.005    2.863    1.431 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+  333/112    0.003    0.000    2.303    0.021 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+      7/6    0.000    0.000    2.302    0.384 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000    2.246    2.246 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+        1    0.051    0.051    2.235    2.235 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1326(fit_transform)
+        1    0.000    0.000    2.008    2.008 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2186(pairwise_distances)
+        1    0.000    0.000    2.008    2.008 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:1884(_parallel_pairwise)
+        1    0.000    0.000    2.008    2.008 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:258(euclidean_distances)
+        1    0.152    0.152    2.007    2.007 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:375(_euclidean_distances)
+        2    0.743    0.372    1.961    0.980 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:1242(_count_vocab)
+        3    0.000    0.000    1.857    0.619 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/extmath.py:161(safe_sparse_dot)
+
+
+
+Entraînement des données terminé avec succès.
+Utilisateur: ismael Date: 2024-10-01 16:30:58.028267
+Résultats du profiler:          13447491 function calls (13275176 primitive calls) in 94.547 seconds
+
+   Ordered by: cumulative time
+   List reduced from 3058 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004   94.547   94.547 /Users/ismaelmgt/Desktop/supply_app/src/utils/train.py:162(train_model)
+      8/7    0.000    0.000   69.133    9.876 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/base.py:1456(wrapper)
+        1    0.000    0.000   66.786   66.786 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:331(fit)
+        1    0.000    0.000   66.746   66.746 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:51(__call__)
+        1    0.000    0.000   66.746   66.746 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1902(__call__)
+      102    0.000    0.000   66.746    0.654 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/joblib/parallel.py:1819(_get_sequential_output)
+      100    0.001    0.000   66.744    0.667 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/parallel.py:122(__call__)
+      100    0.014    0.000   66.741    0.667 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/ensemble/_forest.py:154(_parallel_build_trees)
+      100   66.591    0.666   66.686    0.667 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/tree/_classes.py:231(_fit)
+        3    0.014    0.005   19.891    6.630 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:903(_block)
+        2    0.001    0.000   19.889    9.945 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_construct.py:698(hstack)
+    12/10    0.068    0.006   19.874    1.987 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/scipy/sparse/_coo.py:27(__init__)
+       30   19.794    0.660   19.794    0.660 {method 'nonzero' of 'numpy.ndarray' objects}
+        2    0.000    0.000    3.123    1.561 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:186(fit_resample)
+        2    0.000    0.000    3.122    1.561 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/base.py:83(fit_resample)
+        1    0.000    0.000    3.045    3.045 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/imblearn/over_sampling/_smote/base.py:367(_fit_resample)
+        1    0.000    0.000    3.020    3.020 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/neighbors/_base.py:751(kneighbors)
+        2    0.012    0.006    3.019    1.510 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:2002(pairwise_distances_chunked)
+  333/112    0.001    0.000    2.436    0.022 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/utils/_param_validation.py:182(wrapper)
+        1    0.000    0.000    2.293    2.293 /Users/ismaelmgt/Desktop/supply_app/.venv/lib/python3.12/site-packages/sklearn/feature_extraction/text.py:2065(fit_transform)
+
+
+

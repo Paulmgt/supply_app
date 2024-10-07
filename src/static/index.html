@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Connexion</title>
+    <!-- Ajouter les CDN Bootstrap -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .form-section {
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .form-section h2 {
+            margin-bottom: 20px;
+        }
+    </style>
+    <script>
+        async function login() {
+            const username = document.getElementById('login_username').value;
+            const password = document.getElementById('login_password').value;
+
+            try {
+                const response = await fetch('/token', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded'
+                    },
+                    body: new URLSearchParams({
+                        username: username,
+                        password: password
+                    })
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    localStorage.setItem('access_token', data.access_token);
+                    localStorage.setItem('user_acces', data.type_acces);
+                    window.location.href = '/main';
+                } else {
+                    const errorData = await response.json();
+                    alert(`Erreur de connexion: ${errorData.detail}`);
+                }
+            } catch (error) {
+                alert('Erreur de réseau ou serveur');
+                console.error('Erreur lors de la connexion:', error);
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <div class="form-section">
+                    <h2 class="text-center">Connexion</h2>
+                    <form onsubmit="event.preventDefault(); login();">
+                        <div class="form-group">
+                            <label for="login_username">Nom d'utilisateur:</label>
+                            <input type="text" class="form-control" id="login_username" name="username" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="login_password">Mot de passe:</label>
+                            <input type="password" class="form-control" id="login_password" name="password" required>
+                        </div>
+                        <button type="submit" class="btn btn-success btn-block">Se connecter</button>
+                    </form>
+                    <p class="text-center mt-3">
+                        Pas encore inscrit ? <a href="/register">S'inscrire</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Ajouter les scripts Bootstrap -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

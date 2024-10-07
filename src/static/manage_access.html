@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gérer les Accès</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <script>
+        async function fetchUsers() {
+            try {
+                const response = await fetch('/users', {
+                    headers: {
+                        'Authorization': `Bearer ${localStorage.getItem('access_token')}`
+                    }
+                });
+
+                if (response.ok) {
+                    const users = await response.json();
+                    const tableBody = document.getElementById('users_table_body');
+                    tableBody.innerHTML = '';
+                    users.forEach(user => {
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${user.username}</td>
+                            <td>${user.acces}</td>
+                            <td>
+                                <button class="btn btn-info" onclick="populateForm('${user.username}', '${user.acces}')">Modifier</button>
+                            </td>
+                        `;
+                        tableBody.appendChild(row);
+                    });
+                } else {
+                    alert('Erreur lors de la récupération des utilisateurs');
+                }
+            } catch (error) {
+                console.error('Erreur de récupération des utilisateurs:', error);
+                alert('Erreur de récupération des utilisateurs');
+            }
+        }
+
+        function populateForm(username, access) {
+            document.getElementById('access_username').value = username;
+            document.getElementById('access_role').value = access;
+        }
+
+        async function updateAccess() {
+            const username = document.getElementById('access_username').value;
+            const newAccess = document.getElementById('access_role').value;
+
+            try {
+                const response = await fetch('/update_access', {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${localStorage.getItem('access_token')}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        username: username,
+                        new_access: newAccess
+                    })
+                });
+
+                if (response.ok) {
+                    alert('Accès mis à jour avec succès');
+                    fetchUsers(); // Rafraîchir la liste des utilisateurs
+                } else {
+                    const errorData = await response.json();
+                    alert(errorData.detail || 'Échec de la mise à jour des accès');
+                }
+            } catch (error) {
+                console.error('Erreur de mise à jour des accès:', error);
+                alert('Erreur de mise à jour des accès');
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', fetchUsers);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Gérer les Accès des Utilisateurs</h1>
+        <table class="table mt-4">
+            <thead>
+                <tr>
+                    <th>Nom d'utilisateur</th>
+                    <th>Rôle</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="users_table_body">
+                <!-- Les utilisateurs seront insérés ici -->
+            </tbody>
+        </table>
+        <form class="mt-4" onsubmit="event.preventDefault(); updateAccess();">
+            <div class="form-group">
+                <label for="access_username">Nom d'utilisateur:</label>
+                <input type="text" id="access_username" class="form-control" required readonly>
+            </div>
+            <div class="form-group">
+                <label for="access_role">Nouveau Rôle:</label>
+                <select id="access_role" class="form-control" required>
+                    <option value="user">Utilisateur</option>
+                    <option value="admin">Administrateur</option>
+                    <option value="superadmin">Super Administrateur</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Mettre à jour l'accès</button>
+        </form>
+    </div>
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

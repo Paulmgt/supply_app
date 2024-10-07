@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supply Chain</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- DataTables CSS -->
+    <link href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" rel="stylesheet">
+    <style>
+        /* Ajoutez du style personnalisé ici si nécessaire */
+        .spinner-wrapper {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.8);
+            display: none; /* Masqué par défaut */
+            justify-content: center;
+            align-items: center;
+            z-index: 1000; /* Assurez-vous qu'il est au-dessus de tout autre contenu */
+        }
+    </style>
+    <script>
+        async function performAction(action) {
+            const token = localStorage.getItem('access_token');
+            if (!token) {
+                alert('Vous devez être connecté pour effectuer cette action.');
+                return;
+            }
+
+            let endpoint = '';
+            switch (action) {
+                case 'scraper':
+                    endpoint = '/scraper';
+                    break;
+                case 'clean':
+                    endpoint = '/clean';
+                    break;
+                case 'train':
+                    endpoint = '/train';
+                    break;
+                default:
+                    alert('Action non valide');
+                    return;
+            }
+
+            // Afficher le spinner
+            document.getElementById('spinner').style.display = 'flex';
+
+            try {
+                const response = await fetch(endpoint, {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${token}`,
+                        'Content-Type': 'application/json'
+                    }
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    let resultHtml = `<p><strong>${data.message || 'Action effectuée avec succès.'}</strong></p>`;
+                    
+                    if (action === 'train') {
+                    // La matrice de confusion est déjà un tableau, donc pas besoin de JSON.parse
+                    const confusionMatrix = data.confusion_matrix;
+                    const report = data.classification_report;
+
+                    resultHtml += `
+                        <h3>Résultats de l'Entraînement</h3>
+                        <p><strong>Score du modèle:</strong> ${data.score}</p>
+                        <p><strong>Rapport de classification:</strong></p>
+                        <pre>${JSON.stringify(report, null, 2)}</pre>
+                        <p><strong>Matrice de confusion:</strong></p>
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr><th></th><th>Classe 0</th><th>Classe 1</th></tr>
+                            </thead>
+                            <tbody>
+                                ${confusionMatrix.map((row, index) => 
+                                    `<tr>
+                                        <th>Classe ${index}</th>
+                                        ${row.map(value => `<td>${value}</td>`).join('')}
+                                    </tr>`
+                                ).join('')}
+                            </tbody>
+                        </table>
+                    `;
+
+                    } else if (data.sample && data.sample.length > 0) {
+                        resultHtml += `
+                            <table id="dataTable" class="display">
+                                <thead>
+                                    <tr>${Object.keys(data.sample[0]).map(key => `<th>${key}</th>`).join('')}</tr>
+                                </thead>
+                                <tbody>
+                                    ${data.sample.map(item => 
+                                        `<tr>${Object.values(item).map(value => `<td>${value}</td>`).join('')}</tr>`
+                                    ).join('')}
+                                </tbody>
+                            </table>`;
+                    }
+
+                    document.getElementById('result').innerHTML = resultHtml;
+
+                    // Initialiser DataTables si un tableau est présent
+                    if (data.sample && data.sample.length > 0) {
+                        $('#dataTable').DataTable();
+                    }
+                } else {
+                    const errorData = await response.json();
+                    document.getElementById('result').innerText = errorData.detail || 'Échec de l\'action';
+                }
+            } catch (error) {
+                document.getElementById('result').innerText = 'Erreur lors de l\'exécution de l\'action';
+                console.error('Erreur:', error);
+            } finally {
+                // Masquer le spinner après l'action
+                document.getElementById('spinner').style.display = 'none';
+            }
+        }
+
+        async function predict() {
+            const token = localStorage.getItem('access_token');
+            if (!token) {
+                alert('Vous devez être connecté pour faire une prédiction.');
+                return;
+            }
+
+            const comment = document.getElementById('comment').value;
+            if (!comment) {
+                alert('Veuillez entrer un commentaire.');
+                return;
+            }
+
+            // Afficher le spinner
+            document.getElementById('spinner').style.display = 'flex';
+
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${token}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ comment })
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+
+                    // Vérification des valeurs retournées
+                    if (!data.message || !data.prediction || data.details_probabilities === undefined) {
+                        throw new Error("Données de réponse incomplètes.");
+                    }
+
+                    document.getElementById('result').innerHTML = `
+                        <p><strong>${data.message || 'Prédiction terminée avec succès.'}</strong></p>
+                        <p><strong>Score du modèle:</strong> ${data.score !== null ? data.score : 'N/A'}</p>
+                        <p><strong>Prédiction:</strong> ${data.prediction}</p>
+                        <p><strong>Détails des probabilités:</strong></p>
+                        <ul>
+                            <li>Classe 0: ${data.details_probabilities.class_0 !== null ? data.details_probabilities.class_0 : 'N/A'}</li>
+                            <li>Classe 1: ${data.details_probabilities.class_1 !== null ? data.details_probabilities.class_1 : 'N/A'}</li>
+                        </ul>
+                        <p><strong>Seuil utilisé:</strong> ${data.threshold_used !== null ? data.threshold_used : 'N/A'}</p>
+                    `;
+                } else {
+                    const errorData = await response.json();
+                    throw new Error(errorData.detail || 'Échec de la prédiction');
+                }
+            } catch (error) {
+                document.getElementById('result').innerText = 'Erreur lors de la prédiction: ' + error.message;
+                console.error('Erreur:', error);
+            } finally {
+                // Masquer le spinner après l'action
+                document.getElementById('spinner').style.display = 'none';
+            }
+
+
+        }
+
+        function logout() {
+            localStorage.removeItem('access_token');
+            window.location.href = '/';  // Redirige vers la page de connexion
+        }
+    </script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">SUPPLY_CHAIN_APP</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="performAction('scraper')">Scraper</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="performAction('clean')">Nettoyer</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="performAction('train')">Entraîner</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="predict()">Prédire</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/manage_access">Gérer les accès</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#" onclick="logout()">Déconnexion</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    
+    <div class="container mt-4">
+        <h1>Résultat</h1>
+        <div id="result" class="mt-4"></div>
+
+        <!-- Formulaire pour la prédiction -->
+        <div class="mt-4">
+            <h2>Faire une Prédiction</h2>
+            <form id="predictForm">
+                <div class="form-group">
+                    <label for="comment">Commentaire :</label>
+                    <textarea class="form-control" id="comment" rows="3" required></textarea>
+                </div>
+                <button type="button" class="btn btn-primary" onclick="predict()">Prédire</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Spinner de chargement -->
+    <div id="spinner" class="spinner-wrapper">
+        <div class="spinner-border text-primary" role="status">
+            <span class="sr-only">Chargement...</span>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

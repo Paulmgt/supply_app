@@ -1,0 +1,23 @@
+2024-09-18 10:34:04,067 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/review/bank?country=FR: 404 Client Error: Not Found for url: https://www.trustpilot.com/review/bank?country=FR
+2024-09-18 10:36:04,837 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/review/bank?country=FR: 404 Client Error: Not Found for url: https://www.trustpilot.com/review/bank?country=FR
+2024-09-18 10:37:31,002 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/review/bank?country=FR: 404 Client Error: Not Found for url: https://www.trustpilot.com/review/bank?country=FR
+2024-09-18 10:44:29,609 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/review/bank?country=FR: 404 Client Error: Not Found for url: https://www.trustpilot.com/review/bank?country=FR
+2024-09-18 10:51:39,928 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/review/bank?country=FR: 404 Client Error: Not Found for url: https://www.trustpilot.com/review/bank?country=FR
+2024-09-18 10:55:23,616 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/review/bank?country=FR: 404 Client Error: Not Found for url: https://www.trustpilot.com/review/bank?country=FR
+2024-09-20 15:00:54,120 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/categories/travel_insurance_company?country=FR&page=2: 404 Client Error: Not Found for url: https://www.trustpilot.com/categories/travel_insurance_company?country=FR&page=2
+2024-09-20 15:22:16,090 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/categories/bank?country=FR: HTTPSConnectionPool(host='www.trustpilot.com', port=443): Max retries exceeded with url: /categories/bank?country=FR (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x327eaba40>: Failed to resolve 'www.trustpilot.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-20 15:22:16,092 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/categories/travel_insurance_company?country=FR: HTTPSConnectionPool(host='www.trustpilot.com', port=443): Max retries exceeded with url: /categories/travel_insurance_company?country=FR (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x327ea8d40>: Failed to resolve 'www.trustpilot.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-20 15:22:16,093 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/categories/real_estate_agents?country=FR: HTTPSConnectionPool(host='www.trustpilot.com', port=443): Max retries exceeded with url: /categories/real_estate_agents?country=FR (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x327ea9580>: Failed to resolve 'www.trustpilot.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-20 15:22:16,094 - ERROR - Erreur lors de la récupération de la page https://www.trustpilot.com/categories/electronics_technology?country=FR: HTTPSConnectionPool(host='www.trustpilot.com', port=443): Max retries exceeded with url: /categories/electronics_technology?country=FR (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x327ea9df0>: Failed to resolve 'www.trustpilot.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-09-21 11:53:28,862 - INFO - Début de l'entraînement du modèle
+2024-09-21 11:53:28,862 - INFO - Début de la préparation des données
+2024-09-21 11:53:29,366 - ERROR - Erreur pendant l'entraînement: all the input array dimensions except for the concatenation axis must match exactly, but along dimension 1, the array at index 0 has size 918 and the array at index 1 has size 1000
+2024-09-21 12:06:06,878 - INFO - Début de l'entraînement du modèle
+2024-09-21 12:06:06,878 - INFO - Début de la préparation des données
+2024-09-21 12:06:07,804 - INFO - Préparation des données terminée en 0.93 secondes
+2024-09-21 12:06:46,220 - INFO - Entraînement terminé en 38.23 secondes
+2024-09-21 12:11:43,787 - INFO - Matrice de corrélation sauvegardée à src/features/correlation_matrix.png
+2024-09-21 12:17:25,145 - INFO - Début de la préparation des données
+2024-09-21 12:17:26,096 - INFO - Préparation des données terminée en 0.95 secondes
+2024-09-21 12:20:20,188 - INFO - Début de la préparation des données
+2024-09-21 12:20:20,408 - INFO - Préparation des données terminée en 0.22 secondes

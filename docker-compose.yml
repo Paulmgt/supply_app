@@ -1,0 +1,37 @@
+version: '3'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    depends_on:
+      - scraper
+      - cleaner_a
+      - cleaner_b
+      - trainer
+
+  scraper:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "src/clean/scrapper.py"]
+
+  cleaner_a:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "src/clean/clean_a.py"]
+
+  cleaner_b:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "src/clean/clean_b.py"]
+
+
+  trainer:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["python", "src/utils/train.py"]

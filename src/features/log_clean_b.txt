@@ -1,0 +1,676 @@
+------------- début clean data----------------- : 2024-09-08 19:04:16.440816
+------------- début clean data----------------- : 2024-09-08 19:05:46.948853
+Le nettoyage des données est terminé: (b_data_clean)
+------------- début clean data----------------- : 2024-09-08 19:08:06.679910
+Le nettoyage des données est terminé: (b_data_clean)
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  08-09-2024
+1          bank  Younited Credit Reviews  ...           38  08-09-2024
+2          bank  Younited Credit Reviews  ...           38  08-09-2024
+3          bank  Younited Credit Reviews  ...           38  08-09-2024
+4          bank  Younited Credit Reviews  ...           38  08-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  08-09-2024
+1          bank  Younited Credit Reviews  ...           38  08-09-2024
+2          bank  Younited Credit Reviews  ...           38  08-09-2024
+3          bank  Younited Credit Reviews  ...           38  08-09-2024
+4          bank  Younited Credit Reviews  ...           38  08-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  08-09-2024
+1          bank  Younited Credit Reviews  ...           38  08-09-2024
+2          bank  Younited Credit Reviews  ...           38  08-09-2024
+3          bank  Younited Credit Reviews  ...           38  08-09-2024
+4          bank  Younited Credit Reviews  ...           38  08-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  09-09-2024
+1          bank  Younited Credit Reviews  ...           38  09-09-2024
+2          bank  Younited Credit Reviews  ...           38  09-09-2024
+3          bank  Younited Credit Reviews  ...           38  09-09-2024
+4          bank  Younited Credit Reviews  ...           38  09-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  09-09-2024
+1          bank  Younited Credit Reviews  ...           38  09-09-2024
+2          bank  Younited Credit Reviews  ...           38  09-09-2024
+3          bank  Younited Credit Reviews  ...           38  09-09-2024
+4          bank  Younited Credit Reviews  ...           38  09-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  09-09-2024
+1          bank  Younited Credit Reviews  ...           38  09-09-2024
+2          bank  Younited Credit Reviews  ...           38  09-09-2024
+3          bank  Younited Credit Reviews  ...           38  09-09-2024
+4          bank  Younited Credit Reviews  ...           38  09-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  09-09-2024
+1          bank  Younited Credit Reviews  ...           38  09-09-2024
+2          bank  Younited Credit Reviews  ...           38  09-09-2024
+3          bank  Younited Credit Reviews  ...           38  09-09-2024
+4          bank  Younited Credit Reviews  ...           38  09-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  10-09-2024
+1          bank  Younited Credit Reviews  ...           38  10-09-2024
+2          bank  Younited Credit Reviews  ...           38  10-09-2024
+3          bank  Younited Credit Reviews  ...           38  10-09-2024
+4          bank  Younited Credit Reviews  ...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies                   noms  ...                                               site nombre_pages  date_scrap
+0          bank  Younited Credit Reviews           Eric BRIVOAL  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+1          bank  Younited Credit Reviews                  Islam  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+2          bank  Younited Credit Reviews  Bernard Joseph Benoza  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+3          bank  Younited Credit Reviews        ousmane oumarou  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+4          bank  Younited Credit Reviews                  Duval  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies                   noms  ...                                               site nombre_pages  date_scrap
+0          bank  Younited Credit Reviews           Eric BRIVOAL  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+1          bank  Younited Credit Reviews                  Islam  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+2          bank  Younited Credit Reviews  Bernard Joseph Benoza  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+3          bank  Younited Credit Reviews        ousmane oumarou  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+4          bank  Younited Credit Reviews                  Duval  ...  https://www.trustpilot.com/review/www.younited...           38  10-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis  ...  date_scrap
+0          bank  ...  14-09-2024
+1          bank  ...  14-09-2024
+2          bank  ...  14-09-2024
+3          bank  ...  14-09-2024
+4          bank  ...  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis  ...  date_scrap
+0          bank  ...  14-09-2024
+1          bank  ...  14-09-2024
+2          bank  ...  14-09-2024
+3          bank  ...  14-09-2024
+4          bank  ...  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... nombre_pages  date_scrap
+0          bank  Younited Credit Reviews  ...           38  14-09-2024
+1          bank  Younited Credit Reviews  ...           38  14-09-2024
+2          bank  Younited Credit Reviews  ...           38  14-09-2024
+3          bank  Younited Credit Reviews  ...           38  14-09-2024
+4          bank  Younited Credit Reviews  ...           38  14-09-2024
+
+[5 rows x 12 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies                   noms  ... mois_commentaire jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews                 Steven  ...              NaN              NaN              NaN
+1          bank  Younited Credit Reviews           Eric BRIVOAL  ...              NaN              NaN              NaN
+2          bank  Younited Credit Reviews                  Islam  ...              NaN              NaN              NaN
+3          bank  Younited Credit Reviews  Bernard Joseph Benoza  ...              NaN              NaN              NaN
+4          bank  Younited Credit Reviews                cliente  ...              NaN              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis                companies  ... jour_commentaire leadtime_com_exp
+0          bank  Younited Credit Reviews  ...              NaN              NaN
+1          bank  Younited Credit Reviews  ...              NaN              NaN
+2          bank  Younited Credit Reviews  ...              NaN              NaN
+3          bank  Younited Credit Reviews  ...              NaN              NaN
+4          bank  Younited Credit Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
+------------- début clean data----------------- :
+Aperçu des données brutes :   categorie_bis             companies  ... jour_commentaire leadtime_com_exp
+0  animals_pets  Pinktropical Reviews  ...              NaN              NaN
+1  animals_pets  Pinktropical Reviews  ...              NaN              NaN
+2  animals_pets  Pinktropical Reviews  ...              NaN              NaN
+3  animals_pets  Pinktropical Reviews  ...              NaN              NaN
+4  animals_pets  Pinktropical Reviews  ...              NaN              NaN
+
+[5 rows x 20 columns]
+La colonne Unnamed: 0 est déjà supprimée !
+Le nettoyage des données est terminé: (b_data_clean):
